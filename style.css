@@ -79,6 +79,10 @@ h1.site-title span {
   .blue button {
     background-color: rgb(41, 116, 227);
   }
+  
+  .pink button {
+    background-color: rgb(250, 121, 212);
+  }
 
 }
 

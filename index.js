@@ -17,3 +17,8 @@ document.querySelector('.red button').addEventListener('click', () => {
 document.querySelector('.blue button').addEventListener('click', () => {
   changeColor("rgb(41, 116, 227)")
 });
+
+document.querySelector('.pink button').addEventListener('click', () => {
+  changeColor("rgb(250, 121, 212)")
+});
+
